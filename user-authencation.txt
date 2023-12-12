@@ -1,2 +1,5 @@
 user auth file
+<<<<<<< HEAD
 user authenticated
+=======
+>>>>>>> feature-admin-dashboard
